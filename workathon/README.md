@@ -16,8 +16,7 @@ You must be logged into your account on https://support.econjobmarket.org before
 
 ## Getting Started
 1. Open Terminal. Type in `cd /Users/username/Downloads/EJM_button-main`, then hit enter.
-2. Type in `python button_0.py`, then hit enter.
-*Note that you will be prompted to install the Requests library if it is not already on your computer. To install, type in `pip install requests`, then hit enter.
+2. Type in `python button_0.py`, then hit enter. Note that you will be prompted to install the Requests library if it is not already on your computer. To install, type in `pip install requests`, then hit enter.
 3. A new window will appear with a button that says "Add slice". Click this button. 
 4. In the Terminal window, you will be prompted to enter the username for your account on https://support.econjobmarket.org. Type it in, then hit enter.
 5. You will then be prompted to enter the password for your account on https://support.econjobmarket.org. Type it in, then hit enter.
